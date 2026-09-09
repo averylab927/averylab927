@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hey, I'm Avery (@averylab927) 👋
 
-<!--
-**averylab927/averylab927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer based in Stockholm. Most public commits go toward backend tooling, small CLI apps, and random open-source patches.
 
-Here are some ideas to get you started:
+#### What I do
+- 🔨 Write Go and Python services
+- 📦 Mess with container internals and Docker workflows
+- 📝 Constantly rebuild my Lua config for Neovim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech
+- **Languages:** Python, Go, JavaScript/TypeScript
+- **Environment:** Docker, Linux, Git, Neovim
+
+#### Reach out
+- Open an issue or PR on any project here
+- Email: averylab927@users.noreply.github.com
